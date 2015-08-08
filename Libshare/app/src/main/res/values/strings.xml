@@ -1,4 +1,6 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">libShare</string>
     <string name="title_bool_detail">bool Detail</string>
+    <string name="welcome_message">Welcome to the app</string>
+    <string name="instructions">This is how you use the app...</string>
 </resources>
